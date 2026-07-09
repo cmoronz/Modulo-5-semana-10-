@@ -1,0 +1,11 @@
+Tareas que haría primero:
+- Recibir una alerta en Telegram para revisar un nuevo reporte.
+- Consultar reportes para hacer seguimiento.
+
+Por qué son las más importantes:
+Estas tareas aseguran que el equipo responda rápido a las incidencias y que la información esté disponible para el seguimiento, lo cual mejora la coordinación y la trazabilidad.
+
+Definición de terminado:
+- Funciona según lo esperado.
+- Fue probada y validada con un caso simple.
+- Quedó registrada en Git.

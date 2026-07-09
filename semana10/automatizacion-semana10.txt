@@ -1,0 +1,7 @@
+Evento: nuevo reporte registrado.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Nuevo reporte recibido. Revisar sistema de veeduría y asignar seguimiento.”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones detalladas, teléfonos, claves o datos sensibles.
